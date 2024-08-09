@@ -1,4 +1,4 @@
-# Deploy-Models-with-TensorFlow-Serving-and-Flask
+# Deploy Models with TensorFlow Serving and Flask
 
 # Link
 https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask
